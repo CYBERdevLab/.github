@@ -1,4 +1,7 @@
-## 🌟 Welcome to CYBERdevLab
+## 🌟 Welcome to CYBERdevLab 
+
+[![CYBERdevLab](https://img.shields.io/badge/official-CYBERdevLab-FFFFFF.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CYBERdevLab)
+
 **CYBERdevLab** — *Collaborate • Create • Contribute*  <img src ="https://media.tenor.com/FEkt4P5t3MkAAAAi/luffy-thumbs-up-luffy.gif" width="25">
 
 We’re a **creative and open developer collective**, turning ideas into projects, scripts, and tools.  
